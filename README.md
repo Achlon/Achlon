@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lag4lyfe
+- 👀 I’m interested in Javascript and Java!
+- 🌱 I’m currently learning Java (Minecraft Plugins)
+- 📫 How to reach me: lag4lyfe.biz@gmail.com or Lag4Lyfe_#9999 on discord
