@@ -26,6 +26,9 @@ Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapor
 
 📊 **This Week I Spent My Time Working On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
