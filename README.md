@@ -27,3 +27,8 @@ Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapor
 📊 **This Week I Spent My Time Working On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lag4lyfe&show_icons=true&theme=gotham" alt="lag4lyfe" />
