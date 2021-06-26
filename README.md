@@ -8,6 +8,7 @@
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=lag4lyfe.lag4lyfe)
 <br />
+<br />
 Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapore. I love learning and exploring new and different things.
 
 - 💼 Want work done? Contact me on discord at: Lag4Lyfe_#9999
