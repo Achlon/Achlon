@@ -9,10 +9,9 @@
 <br />
 <br />
 Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapore. I love learning and exploring new and different things.
-<br />
+<br>
 
 - 💼 Want work done? Contact me on discord at: Lag4Lyfe_#9999
-<br>
 - 💬 Do add me on discord too if you just want to have a chat!
 
 **Languages and Tools:**  
