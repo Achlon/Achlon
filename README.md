@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Lag4Lyfe_">
   <img align="left" alt="Lag4Lyfe_ | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=lag4lyfe.lag4lyfe)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=lag4lyfe.lag4lyfe)
 
 <br />
 
@@ -29,6 +29,5 @@ Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapor
 <!--END_SECTION:waka-->
 
 
-📈 My GitHub Stats
-
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lag4lyfe&show_icons=true&theme=gotham" alt="lag4lyfe" />
