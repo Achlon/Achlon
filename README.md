@@ -1,5 +1,5 @@
-### Hey there i'm Lag4Lyfe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hey there I'm Lag4Lyfe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
 <a href="https://discord.gg/">
   <img align="left" alt="Lag4Lyfe's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -7,7 +7,7 @@
   <img align="left" alt="Lag4Lyfe_ | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=lag4lyfe.lag4lyfe)
-
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <br />
 
 Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapore. I love learning and exploring new and different things.
