@@ -25,5 +25,5 @@ Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time Working On:**
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="WakaTime Activity"/>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
