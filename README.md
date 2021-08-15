@@ -26,9 +26,7 @@ Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapor
 📊 **This Week I Spent My Time Working On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 8 mins    ███████████████████████▒░   93.26 % 
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JavaScript   40 mins         ████████████████████████▓   99.11 % 
 ```
 <!--END_SECTION:waka-->
 
