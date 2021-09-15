@@ -1,14 +1,14 @@
-### Hey there I'm Lag4Lyfe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there I'm Achlon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 <a href="https://discord.gg/">
-  <img align="left" alt="Lag4Lyfe's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Achlon's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/Lag4Lyfe_">
+<a href="https://twitter.com/Achl0n">
   <img align="left" alt="Lag4Lyfe_ | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br />
 <br />
-Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapore. I love learning and exploring new and different things.
+Hey there! I'm Achlon, a self-taught developer and a freelancer from Singapore. I love learning and exploring new and different things.
 <br>
 
 - 💼 Want work done? Contact me on discord at: Lag4Lyfe_#9999
@@ -23,6 +23,8 @@ Hey there! I'm Lag4Lyfe_, a self-taught developer and a freelancer from Singapor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/582012181638414357)](https://discord.com/users/582012181638414357)
+
 📊 **This Week I Spent My Time Working On:**
 <!--START_SECTION:waka-->
 ```text
@@ -34,4 +36,4 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
 
 
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lag4lyfe&show_icons=true&theme=gotham" alt="lag4lyfe" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lag4lyfe&show_icons=true&theme=gotham" alt="Achlon" />
