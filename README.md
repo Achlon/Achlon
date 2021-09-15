@@ -23,7 +23,7 @@ Hey there! I'm Achlon, a self-taught developer and a freelancer from Singapore. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/582012181638414357)](https://discord.com/users/582012181638414357)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/703975707310555247)](https://discord.com/users/703975707310555247)
 
 📊 **This Week I Spent My Time Working On:**
 <!--START_SECTION:waka-->
