@@ -28,7 +28,7 @@ Hey there! I'm Achlon, a self-taught developer and a freelancer from Singapore. 
 📊 **This Week I Spent My Time Working On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 mins         █████████████████████████   99.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
